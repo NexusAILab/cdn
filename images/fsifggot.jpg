@@ -1,0 +1,1 @@
+the server closed connection before returning the first response byte. Make sure the server returns 'Connection: close' response header before closing the connection
